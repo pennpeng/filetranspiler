@@ -1,4 +1,4 @@
-FROM registry.fedoraproject.org/fedora:latest
+FROM docker.io/fedora:latest
 
 COPY filetranspile /usr/bin/filetranspile
 
